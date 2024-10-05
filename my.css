@@ -1,0 +1,75 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+  }
+  header {
+    background-color: #5b0963f3;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+
+  main {
+    padding: 20px;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  p {
+    text-align: left;
+    margin: 0;
+  }
+  
+  
+  section {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 7px rgb(96, 15, 104);
+  }
+  
+  h2 {
+    margin-top: 0;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+
+  
+  img {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    max-width: 100%;
+    height: auto;
+    box-shadow: 0 4px 7px rgb(96, 15, 104);
+    border-radius: 20px;
+    border-radius: 20px;
+    border-radius: 20px;
+  }
+    
+  a[href^="https://github.com/v1zrox"] {
+    color: #4a76be;
+  }
+  
+  a[href^="https://t.me/v1zrox"] {
+    color: #4a76be;
+  }
